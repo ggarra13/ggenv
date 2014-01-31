@@ -9,6 +9,7 @@
 
   Env.check_directories = false        turn off verification that
                                        directories exist (default: true)
+
   path = Env['PATH']
 
   path << "C:/newpath"                 As path is modified, so 
